@@ -1,0 +1,22 @@
+.form {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 1rem 2rem 3rem 2rem;
+  border: solid;
+  gap: 1rem;
+}
+
+.form-heading,
+.form-input,
+.form-output {
+  grid-column: 1/-1;
+}
+
+.form-heading {
+  text-align: center;
+}
+
+.form-output {
+  padding-top: 1rem;
+  font-weight: bold;
+}
