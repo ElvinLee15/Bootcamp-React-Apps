@@ -1,3 +1,15 @@
+# Project Aim
+
+Design of a app that will guess the user's nationality based on the name inputted.
+
+Task is to learn about the usage of Redux Hooks over class components.
+
+# Project Instructions
+
+Input the name you want to know the nationality of, then click predict to get your resutlt.
+
+This will then provide the country code and the probablity of the prediction of the name.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
