@@ -1,0 +1,35 @@
+.user-input-form {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  height: 14vh;
+  min-width: 25rem;
+}
+
+/* Positioning of form elements */
+.form-heading,
+.form-input-button-container {
+  grid-column: 1/-1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-input-button-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  min-width: 25rem;
+}
+
+/* Form elements styling */
+.to-do-input {
+  min-width: 30rem;
+  height: 1.3rem;
+  background-color: #e0fbfc;
+  color: #293241;
+}
+
+.add-to-do-item-button {
+  height: 1.55rem;
+}

@@ -1,0 +1,15 @@
+/* Background colour of whole page */
+body {
+  background-color: #3d5a80;
+  color: #ee6c4d;
+}
+
+.App {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.form-container,
+.to-do-display-container {
+  grid-column: 2;
+}

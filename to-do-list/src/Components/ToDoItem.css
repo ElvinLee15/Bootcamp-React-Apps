@@ -1,0 +1,22 @@
+li {
+  display: flex;
+  gap: 1rem;
+  background-color: rgba(82, 188, 214, 0.705);
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+textArea {
+  resize: none;
+  width: 30rem;
+  height: 1.2rem;
+  background-color: #e0fbfc;
+  color: #293241;
+}
+
+button {
+  color: #293241;
+  font-weight: bold;
+  background-color: #98c1d9;
+  border-radius: 5px;
+}
