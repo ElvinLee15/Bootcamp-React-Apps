@@ -1,3 +1,21 @@
+# Project Aim
+
+Design of a to do list, alloweing the user to add a to do item to the list, and edit/delete/mark completed on the to do items.
+
+Task is to learn about global state management with the usage of Redux.
+
+# Project Instructions
+
+Input the item you want to add, then click add to render a to do item onto the page.
+
+You will then have the option to click the following buttons on the to do item:
+
+Edit - Modify the to do items content. A update button will also appear for you to finalise the changes once you have finished editing.
+
+Delete - Remove the to do item from the list
+
+Completed - Strikethrough will be applied onto the to do item to show the to do item has been completed.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
