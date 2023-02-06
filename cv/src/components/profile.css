@@ -1,0 +1,11 @@
+.profilePic{
+    width: 40%;
+    border-radius: 50%;
+    padding: 1 rem;
+}
+
+.profilePicContainer{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
