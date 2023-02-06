@@ -1,0 +1,38 @@
+.appContainer{
+    background-color: rgba(197, 196, 118, 0.288);
+    display: grid;
+    grid-template-columns: 40px repeat(3, 1fr) 40px;
+    gap: 1rem;
+}
+
+/* Positioning of Components */
+header{
+    grid-column: 1/6;
+}
+
+.companyInfo, .productHeading, .productsContainer, nav, .interestCalcContainer{
+    grid-column: 2/5;
+}
+
+/* Nav Styling */
+nav{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.link{
+    padding: 1rem;
+    background-color: white;
+    text-align: center;
+}
+
+/* Interest Calc Styling */
+.interestCalcFormContainer{
+    padding: 1rem;
+}
+
+
+
+
