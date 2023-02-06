@@ -10,11 +10,6 @@ Use the navigation bar on top of the page to render the different pages produced
   
 To use the interest calculator, input the amount you want to pay in installments and then the duration in months you wanto to pay back the amount in. Click calc and then compound interest will be applied, showing the total you have to pay back and amount you need to pay monthly.
 
-
-
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
