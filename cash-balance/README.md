@@ -1,3 +1,15 @@
+# Project Aim
+
+Design of a cash-balance management app that will allow the user to Withdraw, Deposit, Add Interest and deduct charges from their cash balance.
+
+Task is to learn about global state management with the usage of Redux.
+
+# Project Instructions
+
+Input the amount that you want to Withdraw/Deposit and then click the corresponding buttons to update your cash balance.
+
+Interest (+5%) and Charges (-15%) can be applied by clicking the corresponding buttons to apply the changes onto the cash balance.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
